@@ -1,2 +1,0 @@
-# argocd
-argocd .yaml files
