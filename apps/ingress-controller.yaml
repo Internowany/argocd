@@ -8,7 +8,7 @@ spec:
     namespace: dev
     server: "https://kubernetes.default.svc"
   source:
-    path: ./infra-apps/nginx-ingress-controller
+    path: ./infra-apps/nginx-ingress
     repoURL: "https://github.com/Internowany/demo-crm.git"
     targetRevision: master
   project: default
